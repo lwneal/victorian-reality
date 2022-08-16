@@ -2,6 +2,7 @@
 ## 🖙  STEREOGRAPH 🖘
 ### to generate VR180-formatted images
 
+Recently featured in [The Atlantic Magazine](https://www.theatlantic.com/magazine/archive/1859/06/the-stereoscope-and-the-stereograph/303361/)
 
 ## 🖙  INTRODUCTION 🖘
 We have now obtained the doubleeyed or twin pictures, or STEREOGRAPH, if we may coin a name. But the pictures are two, and we want to slide them into each other, so to speak, as in natural vision, that we may see them as one. How shall we make one picture out of two, the corresponding parts of which are separated by a distance of two or three inches?
