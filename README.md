@@ -1,12 +1,12 @@
-#### A conversion utility for Mr. Holmes' famous
-# 🖙  STEREOGRAPH 🖘
-#### to generate VR180-formatted images
+### A conversion utility for Mr. Holmes' famous
+## 🖙  STEREOGRAPH 🖘
+### to generate VR180-formatted images
 
 
-# 🖙  INTRODUCTION 🖘
+## 🖙  INTRODUCTION 🖘
 We have now obtained the doubleeyed or twin pictures, or STEREOGRAPH, if we may coin a name. But the pictures are two, and we want to slide them into each other, so to speak, as in natural vision, that we may see them as one. How shall we make one picture out of two, the corresponding parts of which are separated by a distance of two or three inches?
 
-We can do this in two ways. First, by squinting as we look at them. But this is tedious, painful, and to some impossible, or at least very difficult. We shall find it much easier to look through a couple of glasses that squint tbr us. If at the same time they magnify the two pictures, we gain just so much in the distinctness of the picture, which, if the figures on the slide are small, is a great advantage. One of the easiest ways of accomplishing this double purpose is to cut a convex lens through the middle, grind the curves of the two halves down to straight lines, and join them by their thin edges. This is a squinting magnifier, and if arranged so that with its right half we see the right picture on the slide, and with its left half the left picture, it squints them both inward so that they run together and form a single picture.
+We can do this in two ways. First, by squinting as we look at them. But this is tedious, painful, and to some impossible, or at least very difficult. We shall find it much easier to look through a couple of glasses that squint for us. If at the same time they magnify the two pictures, we gain just so much in the distinctness of the picture, which, if the figures on the slide are small, is a great advantage. One of the easiest ways of accomplishing this double purpose is to cut a convex lens through the middle, grind the curves of the two halves down to straight lines, and join them by their thin edges. This is a squinting magnifier, and if arranged so that with its right half we see the right picture on the slide, and with its left half the left picture, it squints them both inward so that they run together and form a single picture.
 
 
 
